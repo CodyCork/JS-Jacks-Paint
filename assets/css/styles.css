@@ -1,9 +1,10 @@
 body{
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
  }
- .dim{
+  .dim{
     opacity: 0.1555;
-  }
+  } 
+  /* This ^ did not work for me! */
 
   .priceDiv {
     border: 1px solid black;
@@ -38,4 +39,30 @@ body{
     height: 5.5em;
   }
 
-  
+  #pn1:hover {
+    opacity: 0.1555;
+  }
+  #pn2:hover {
+    opacity: 0.1555;
+  }
+  #pn3:hover {
+    opacity: 0.1555;
+  }
+  #pn4:hover {
+    opacity: 0.1555;
+  }
+  #pn5:hover {
+    opacity: 0.1555;
+  }
+  #pn6:hover {
+    opacity: 0.1555;
+  }
+  #pn7:hover {
+    opacity: 0.1555;
+  }
+  #pn8:hover {
+    opacity: 0.1555;
+  }
+  #pn9:hover {
+    opacity: 0.1555;
+  }
